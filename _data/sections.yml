@@ -1,0 +1,36 @@
+about:
+  url: /about
+  heading: Me
+  words: Hi, I'm a Machine Learning Researcher!
+  class: m3 about
+  border: about
+academic:
+  url: /academic
+  heading: Academic
+  words: Select works and publications
+  class: m4 academic
+  border: academic
+projects:
+  url: /projects
+  heading: Projects
+  words: A list of projects and experiments
+  class: m5 projects
+  border: projects
+resume:
+  url: /resume
+  heading: CV
+  words: Check out or download my CV
+  class: m4 algorithms
+  border: algorithms
+trading:
+  url: /trading
+  heading: Trading
+  words: Trading dashboard for clients
+  class: m4 trading
+  border: trading
+contact:
+  url: /contact
+  heading: Contact
+  words: Feel free to shoot me an email!
+  class: m4 contact
+  border: contact

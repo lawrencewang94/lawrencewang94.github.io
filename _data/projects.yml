@@ -1,0 +1,88 @@
+- id: 0
+  title: Lunar Lander
+  url: https://google.com
+  github_url: https://github.com/lawrencewang94
+  description: A Cross-Entropy RL Solution to the OpenAI Lunar Lander Environment 
+  technologies: [
+                ]
+  cover: /assets/images/project_covers/lunar-lander.jpg
+  images: [
+    '/assets/images/project_images/tic_tac_toe/tictactoe1.png'
+  ]
+- id: 1
+  title: Raven's Progressive Matrices
+  url: https://google.com
+  github_url: https://github.com/lawrencewang94
+  description: A Cross-Entropy RL Solution to the OpenAI Lunar Lander Environment 
+  technologies: [
+                ]
+  cover: /assets/images/project_covers/raven-matrices.png
+  images: [
+    '/assets/images/project_images/tic_tac_toe/tictactoe1.png'
+  ]
+- id: 2
+  title: Sumo Isolation Game
+  url: https://google.com
+  github_url: https://github.com/lawrencewang94
+  description: A Cross-Entropy RL Solution to the OpenAI Lunar Lander Environment 
+  technologies: [
+                ]
+  cover: /assets/images/project_covers/isolation.jpg
+  images: [
+    '/assets/images/project_images/tic_tac_toe/tictactoe1.png'
+  ]
+- id: 3
+  title: Map Search
+  url: https://google.com
+  github_url: https://github.com/lawrencewang94
+  description: A Cross-Entropy RL Solution to the OpenAI Lunar Lander Environment 
+  technologies: [
+                ]
+  cover: /assets/images/project_covers/map-search.jpg
+  images: [
+    '/assets/images/project_images/tic_tac_toe/tictactoe1.png'
+  ]
+- id: 4
+  title: Temporal Difference Learning
+  url: https://google.com
+  github_url: https://github.com/lawrencewang94
+  description: A Cross-Entropy Reinforcemeng Learning Solution to the OpenAI Lunar Lander Environment. The agent is able to land the lunar lander most of the time, and it appears to follow behaviours as if it understood the underlying Physics. 
+  technologies: [
+                ]
+  cover: /assets/images/project_covers/temporal-difference.jpg
+  images: [
+    '/assets/images/project_images/tic_tac_toe/tictactoe1.png'
+  ]
+- id: 5
+  title: Friend-Q, Foe-Q, Correlated-Q Learning
+  url: https://google.com
+  github_url: https://github.com/lawrencewang94
+  description: A Cross-Entropy RL Solution to the OpenAI Lunar Lander Environment 
+  technologies: [
+                ]
+  cover: /assets/images/project_covers/multiagent.jpg
+  images: [
+    '/assets/images/project_images/tic_tac_toe/tictactoe1.png'
+  ]
+- id: 6
+  title: Random Forest
+  url: https://google.com
+  github_url: https://github.com/lawrencewang94
+  description: A Cross-Entropy RL Solution to the OpenAI Lunar Lander Environment 
+  technologies: [
+                ]
+  cover: /assets/images/project_covers/forest.jpg
+  images: [
+    '/assets/images/project_images/tic_tac_toe/tictactoe1.png'
+  ]
+- id: 7
+  title: Hidden Markov Models
+  url: https://google.com
+  github_url: https://github.com/lawrencewang94
+  description: A Cross-Entropy RL Solution to the OpenAI Lunar Lander Environment 
+  technologies: [
+                ]
+  cover: /assets/images/project_covers/hmm.jpg
+  images: [
+    '/assets/images/project_images/tic_tac_toe/tictactoe1.png'
+  ]
