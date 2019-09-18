@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <ul>
+        <li><a href="{{ url_for('list', mode = mode) }}">System Control and Overview</a>
+		<li><a href="{{ url_for('positions', mode = mode) }}">View Positions</a></li>
+		<li><a href="{{ url_for('pl', mode = mode) }}">View PL</a></li>
+		<li><a href="{{ url_for('trades', mode = mode) }}">View Trades</a></li>
+    </ul>
+</body>
+</html>
